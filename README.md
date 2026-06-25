@@ -1,6 +1,6 @@
 # STA 161 – Workplace Safety Incident Analysis Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project was developed as part of **STA 161** and focuses on analyzing workplace safety incidents using Microsoft Excel. The workbook contains raw incident data, pivot tables, calculations, and an interactive dashboard designed to provide insights into workplace injuries, incident costs, lost workdays, and demographic trends.
 
@@ -8,7 +8,7 @@ The goal of the project is to transform operational safety data into meaningful 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -26,7 +26,7 @@ STA 161 - Project_Group_P2_3.xlsx
 
 ---
 
-## 📋 Dataset Description
+## Dataset Description
 
 The dataset contains **514 workplace incident records** collected between **2020 and 2022**.
 
@@ -51,7 +51,7 @@ The dataset contains **514 workplace incident records** collected between **2020
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 The dashboard provides interactive visualizations and summaries of workplace incidents, including:
 
@@ -82,7 +82,7 @@ The dashboard provides interactive visualizations and summaries of workplace inc
 
 ---
 
-## 🔍 Key Analysis Questions
+## Key Analysis Questions
 
 The project helps answer questions such as:
 
@@ -94,7 +94,7 @@ The project helps answer questions such as:
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -108,7 +108,7 @@ The project helps answer questions such as:
 
 ---
 
-## 📊 Sample Findings
+## Sample Findings
 
 Based on the analysis:
 
@@ -119,7 +119,7 @@ Based on the analysis:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Open `STA 161 - Project_Group_P2_3.xlsx`.
 2. Navigate to the **Dashboard** worksheet.
@@ -129,7 +129,7 @@ Based on the analysis:
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -142,7 +142,7 @@ This project demonstrates:
 
 ---
 
-## 👥 Project Information
+## Project Information
 
 **Arthur:** Alisa Peacock
 **Course:** STA 161  
